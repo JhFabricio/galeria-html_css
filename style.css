@@ -1,1 +1,6 @@
-
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #e6e6fa;
+  height: auto;
+}
